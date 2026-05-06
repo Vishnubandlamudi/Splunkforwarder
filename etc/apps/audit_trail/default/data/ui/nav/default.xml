@@ -1,0 +1,5 @@
+<nav search_view="search">
+    <view name="search"/>
+    <view name="knowledge_objects_audit" default="true"/>
+</nav>
+

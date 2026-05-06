@@ -1,0 +1,3 @@
+# Application-level permissions
+[]
+access = read : [ admin ], write : [ admin ]
